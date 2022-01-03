@@ -85,56 +85,7 @@ https://ciechanow.ski/page/2/
 - We were a perfect family, except…
 - On that fateful day…
 - What I’ve held in for too long is…
-- My greatest fear is/was…
-- Why did I…
-- Who would have thought…
-- Twenty years ago…
-- Love tastes like…
-- What I should have known was…
-- What I can’t tell you is…
-- The journey began with…
-- How could I have known that…
-- The smell of…
-- You remind me of…
-- If I could start over…
-- Lying there…
-- Regret feels like…
-- It’s been years, but…
-- What you said to me was…
-- I love you, but…
-- My dream is/was…
-- Facing the unknown, I…
-- She/He/You turned to me and…
-- The lesson was…
-- I remember a song…
-- The smell of…
-- I used to hide…
-- Darkness is…
-- If I could, I would…
-- Through the wall I heard…
-- When we kissed…
-- Everything changed when…
-- They didn’t like that I…
-- The best idea I ever had…
-- The worst idea I ever had…
-- If memory serves…
-- If I could start over…
-- I’d pay any price to…
-- You need to know…
-- Healing is…
-- Everyday I…
-- I wish…
-- After a decade…
-- How I learned to…
-- I am from…
-- I can still feel…
-- I never want to forget…
-- May you…
-- The last thing I remember is…
-- It took everything to…
-- I’m afraid to remember…
-- When you looked at me I knew…
-- Out the window I could see…
+
 
 https://css-tricks.com/spicy-sections/
 
@@ -188,67 +139,55 @@ https://css-tricks.com/spicy-sections/
 32. Write about something that you’re an expert on. Explain some of what you know and why you are interested in the topic!
 33. Write about a time when you exceeded your own expectations. What did you accomplish? How did you feel when you were done?
 
-## "What does commitment look like to you?"
-
-## "What would we do to have a perfect day, weekend, or evening together?"
-
-## "What are your deep longings and dreams for yourself?"
-
-## "What stresses you out?"
-
-## "Do you spend time with your family?"
-
-## "What do you like to do in your downtime?"
-
-## "What's been the hardest thing you ever had to do in life so far? How did it impact you?"
-
-## "You've just won the Mega Millions lottery. What will you do with the money?"
-
-## "Do you have animals?"
-
-## "What's your love language?"
-
-## "What really bugs you or gets on your nerves?"
-
-## "What is a 'no go' or non-negotiable for you?"
-
-## "When do you need affection or physical intimacy the most?"
-
+- What does commitment look like to you?
+- What would we do to have a perfect day, weekend, or evening together?
+- What are your deep longings and dreams for yourself?
+- What stresses you out?
+- Do you spend time with your family?
+- What do you like to do in your downtime?
+- What's been the hardest thing you ever had to do in life so far? How did it impact you?
+- You've just won the Mega Millions lottery. What will you do with the money?
+- Do you have animals?
+- What's your love language?
+- What really bugs you or gets on your nerves?
+- What is a 'no go' or non-negotiable for you?
+- When do you need affection or physical intimacy the most?
 - What is the best thing that happened to you today? The worst?
-
 - If you could have any meal right now, what would it be?
-
 - What topic did you think about the most today?
-
 - Write the first five words you can think of. Then write a short paragraph about each of them.
-
 - Is there something you wanted to say today but didn't? Write it out now.
-
 - Review a movie you saw recently.
-
 - What's one thing you're looking forward to?
-
-- Lay out some plans for your *Animal Crossing* island.
-
 - What's a small accomplishment that you're proud of?
-
 - What's one thing you're not looking forward to?
-
 - Describe the best beverage you've ever had.
-
 - What's one thing you wish you'd done today?
-
 - Describe a childhood experience that you remember particularly clearly.
-
 - Write a letter to your pet.
-
 - What's the best trip you've taken?
-
 - What's a good snack you've eaten? Doesn't have to be the best, just a good one.
-
 - Go to Google and type in a letter. Then write about the first search suggestion.
-
 - List 10 things you think are good. Can be anything.
+- List five small ways that you can share your gratitude today.
+- Write about a person in your life that you're especially grateful for and why.
+- What skills or abilities are you thankful to have?
+- What is there about a challenge you're experiencing right now that you can be thankful for?
+- How is where you are in life today different than a year ago - and what positive changes are you thankful for?
+- What activities and hobbies would you miss if you were unable to do them?
+- List five body parts that you're grateful for and why.
+- What about the city you live in are you grateful for?
+- What are you taking for granted about your day to day that you can be thankful for?
+- List 5 people in your life who are hard to get along with—and write down at least one quality for each that you are grateful for.
+- What materialistic items are you most grateful for?
+- Write about the music you're thankful to be able to listen to and why.
+- Who has done something this week to help you or make your life easier and how can you thank them?
+- What foods or meals are you most thankful for?
+- What elements of nature are you grateful for and why?
+- What part of your morning routine are you most thankful for?
+- What is something you're grateful to have learned this week?
+- When was the last time you laughed uncontrollably—relive the memory.
+- What aspects of your work environment are you thankful for (Steinhilber, 2015)?
 
 ![](https://ideas.ted.com/wp-content/uploads/sites/3/2021/12/Friendships_Illustration.jpg)
 
@@ -272,26 +211,7 @@ https://www.journalbuddies.com/
 
 https://www.psychologyjunkie.com/the-infj/
 
-- List five small ways that you can share your gratitude today.
-- Write about a person in your life that you’re especially grateful for and why.
-- What skills or abilities are you thankful to have?
-- What is there about a challenge you’re experiencing right now that you can be thankful for?
-- How is where you are in life today different than a year ago–and what positive changes are you thankful for?
-- What activities and hobbies would you miss if you were unable to do them?
-- List five body parts that you’re grateful for and why.
-- What about the city you live in are you grateful for?
-- What are you taking for granted about your day to day that you can be thankful for?
-- List 5 people in your life who are hard to get along with—and write down at least one quality for each that you are grateful for.
-- What materialistic items are you most grateful for?
-- Write about the music you’re thankful to be able to listen to and why.
-- Who has done something this week to help you or make your life easier and how can you thank them?
-- What foods or meals are you most thankful for?
-- What elements of nature are you grateful for and why?
-- What part of your morning routine are you most thankful for?
-- [Write a letter to someone](https://positivepsychology.com/gratitude-messages-letters-lists/) who has positively impacted your life, however big or small.
-- What is something you’re grateful to have learned this week?
-- When was the last time you laughed uncontrollably—relive the memory.
-- What aspects of your work environment are you thankful for (Steinhilber, 2015)?
+
 
 [Web3: The next generation of the web is here… apparently • The Register](https://www.theregister.com/2021/12/15/web3_apparently_the_next_generation/)
 
